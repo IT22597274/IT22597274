@@ -1,7 +1,8 @@
 # Anuradha Lakshman Bandara (IT22597274)
 
 ## About Me
-Hello, friend. I'm Anuradha Lakshman Bandara, an aspiring Cyber Security undergraduate. Just like Elliot from Mr. Robot, I'm on a journey to master the art of code and hacking for the greater good. Cybersecurity is not just a profession for me; it's a mission to safeguard the digital realm.
+Hello, friend. I'm Anuradha Lakshman Bandara, 
+<!--an aspiring Cyber Security undergraduate. Just like Elliot from Mr. Robot, I'm on a journey to master the art of code and hacking for the greater good. Cybersecurity is not just a profession for me; it's a mission to safeguard the digital realm.
 
 - 🔐 Cyber Security Enthusiast
 - 💻 Coding Enthusiast
@@ -27,7 +28,7 @@ Feel free to explore more of my projects on my [GitHub Repositories](https://git
 > "Is it that we collectively thought Steve Jobs was a great man, even when we knew he made billions off the backs of children? Or maybe it's that it feels like all our heroes are counterfeit. The world itself's just one big hoax."
 > — Elliot Alderson
 
-## Connect with Me
+## Connect with Me-->
 <!--
 - LinkedIn: [Anuradha Lakshman Bandara](https://www.linkedin.com/in/yourlinkedinprofile)
 - Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
